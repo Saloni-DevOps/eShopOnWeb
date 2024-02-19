@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: eshoponweb-github
   LOCATION: southindia
   #TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  TEMPLATE-FILE: /infra/webapp.bicep
+  TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 54ad49b4-71e3-4c05-9dde-413befd67863
   WEBAPP-NAME: eshoponweb-webapp-github
 
